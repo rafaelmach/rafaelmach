@@ -1,4 +1,4 @@
-## Olá! Eu sou Rafael Machado -- Desenvolvedor Web Frontend
+## Olá! Eu sou Rafael Machado  💻  Desenvolvedor Web Frontend
 
 
 - 🔭 Atualmente estou trabalhando em projetos Front-end com React
