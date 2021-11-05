@@ -1,4 +1,5 @@
-## Olá! Eu sou Rafael Machado  💻  Desenvolvedor Web Frontend
+### Olá! Eu sou Rafael Machado  💻  Desenvolvedor Front-end
+<hr>
 
 
 - 🔭 Atualmente estou trabalhando em projetos Front-end com React
@@ -6,7 +7,7 @@
 - ⚡ Curiosidade: Eu adoro viajar com minha família, ouvir Rock 🎸 e assistir Futebol Americano 🏈
 <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/rafaelmach">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <br>
