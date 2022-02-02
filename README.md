@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em projetos Front-end com React
-- 🌱 Estudando e me aprofundando em React e Javascript
+- 🌱 Estudando e me aprofundando em React e Typescript
 - ⚡ Curiosidade: Eu adoro viajar com minha família, ouvir Rock 🎸 e assistir Futebol Americano 🏈
 <br>
 
